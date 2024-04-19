@@ -82,4 +82,4 @@ we can also test the functionalities of the lambda function in aws under the Tes
 
 ### Integrate API Gateway:
 In the lambda function page, clicl add Trigger and add the API endpoint. We could then find the link right next to a text that says "API endpoint:"
-
+![image](./API.png)
