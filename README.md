@@ -14,7 +14,7 @@ Zairan Xiang
 
 2. ```cargo lambda new projectName```, this command will create a rust project directory for the lambda function
 
-3. Fill in the main.rs file inside the src folder to take a string as ihnput and split the string by white space, then output and show the list of words in that sentence.
+3. Fill in the main.rs file inside the src folder to take a string as input and split the string by white space, then output and show the list of words in that sentence.
 ```rust
 // Import necessary modules
 use lambda_runtime::{handler_fn, Context, Error};
